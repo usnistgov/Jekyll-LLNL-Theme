@@ -4,7 +4,7 @@ description: "Opensource Template"
 
 # Correct linking GitHub Project pages
 # Note leading slash in baseurl
-githubrepo: Opensourcee-Theme
+githubrepo: Opensource-Theme
 baseurl: /Opensource-Theme
 
 permalink: pretty
