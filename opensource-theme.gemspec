@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-llnl-theme"
+  spec.name          = "opensource-theme"
   spec.version       = "0.1.0"
   spec.authors       = ["Elsa Gonsiorowski", "Ian Lee", "Lawrence Livermore National Security, LLC"]
   spec.email         = ["gonsie@me.com"]
 
   spec.summary       = %q{LLNL Themed Jekyll Template and Gem}
-  spec.homepage      = "https://github.com/llnl/jekyll-llnl-theme"
+  spec.homepage      = "https://github.com/usnistgov/opensource-theme"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select do |f|
